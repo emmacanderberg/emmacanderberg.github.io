@@ -24,4 +24,9 @@ This area allowed me to look at the tracks individually and edit the volume via 
 
 ![looppacks.png](/images/looppacks.png)
 
-In the apple loops window is where you can search for loops to play in your workspace. This window also had a search bar and search specific preferences. This made it easy to find what I needed to complete the lesson.
+In the apple loops window is where you can search for loops to play in your workspace. This window also had a search bar and search specific preferences. This made it easy to find what I needed to complete the lesson. For example, if I wanted to include a piano loop in my track, I go to the top and click on piano to search only for piano tracks. To go even further, if I wanted a clean piano track, I can select my preferences to only search "clean piano tracks". This allowed me to save time when creating my mix.
+
+### MY TIP 
+
+TO SAVE TIME SET YOUR PREFERENCES BY INSTRUMENT AND GENRE TO SEARCH FOR LOOPS
+
