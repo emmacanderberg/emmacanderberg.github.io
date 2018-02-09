@@ -12,5 +12,9 @@
 ![panknobSC](/images/panknobsSC.png)
 
 
+![workspace.png](/images/workspace.png)
+
+The area shown above is the workspace where you drag tracks and move them to a specific measure. Having the measure number at the top was very helpful in orgsnizing downbeats and cutoffs.
+
 
 
