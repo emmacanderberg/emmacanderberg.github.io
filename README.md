@@ -14,7 +14,11 @@
 
 ![workspace.png](/images/workspace.png)
 
-The area shown above is the workspace where you drag tracks and move them to a specific measure. Having the measure number at the top was very helpful in orgsnizing downbeats and cutoffs.
+The area shown above is the workspace where you drag tracks and move them to a specific measure. Having the measure number at the top was very helpful in organizing downbeats and cutoffs.
 
+
+![sidebar.png]9/images/sidebar.png)
+
+This area allowed me to look at the tracks individually and edit the volume via volume fader or pan knobs.
 
 
