@@ -22,6 +22,6 @@ The area shown above is the workspace where you drag tracks and move them to a s
 This area allowed me to look at the tracks individually and edit the volume via volume fader or pan knobs.
 
 
-![loop packs.png](/images/loop packs.png)
+![looppacks.png](/images/looppacks.png)
 
 In the apple loops window is where you can search for loops to play in your workspace. This window also had a search bar and search specific preferences. This made it easy to find what I needed to complete the lesson.
