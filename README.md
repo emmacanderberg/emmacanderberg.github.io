@@ -29,9 +29,9 @@ by pressing option-c I was allowed to label each track by color. This made it ea
 ![spacedesign.png](/images/spacedesign.png)
 ![mutesolo.png](/images/mutesolo.png)
 
-In the apple loops window is where you can search for loops to play in your workspace. This window also had a search bar and search specific preferences. This made it easy to find what I needed to complete the lesson. For example, if I wanted to include a piano loop in my track, I go to the top and click on piano to search only for piano tracks. To go even further, if I wanted a clean piano track, I can select my preferences to only search "clean piano tracks". This allowed me to save time when creating my mix.
+In the channel strip I added different audio effects. For example space designer allowed me to add more reverb on my recorded audio.
 
 ### MY TIP 
 
-TO SAVE TIME SET YOUR PREFERENCES BY INSTRUMENT AND GENRE TO SEARCH FOR LOOPS
+If you only want to listen to one track, you can press the solo option(S) in the track header section. If you wanted to mute certain tracks, you would would press the mute option (M)
 
