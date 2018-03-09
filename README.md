@@ -13,7 +13,9 @@
 
 ![faded.png](/images/faded.png)
 ![crossfaded.png](/images/crossfaded.png)
-![crossfaded2.png(/images/crossfaded2.png)
+![crossfaded.png](/images/crossfaded2.png)
+
+
 
 The area shown above is the tool menu. I used the fader tool to allow certain tracks to fade out where I wanted them to. I wanted the tracks to fade out to add depth and dynamic contrast. I also over lapped tracks to crossfade them together. I liked the over lapping lyrics. It made the track seem more distorted and interesting.
 
