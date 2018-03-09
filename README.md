@@ -26,7 +26,8 @@ The area shown above is the tool menu. I used the fader tool to allow certain tr
 by pressing option-c I was allowed to label each track by color. This made it easier to organize my peoject. 
 
 
-![looppacks.png](/images/looppacks.png)
+![spacedesign.png](/images/spacedesign.png)
+![mute/solo.png](/images/mute/solo.png)
 
 In the apple loops window is where you can search for loops to play in your workspace. This window also had a search bar and search specific preferences. This made it easy to find what I needed to complete the lesson. For example, if I wanted to include a piano loop in my track, I go to the top and click on piano to search only for piano tracks. To go even further, if I wanted a clean piano track, I can select my preferences to only search "clean piano tracks". This allowed me to save time when creating my mix.
 
