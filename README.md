@@ -21,9 +21,9 @@
 
 The area shown above is the tool menu. I used the fader tool to allow certain tracks to fade out where I wanted them to. I wanted the tracks to fade out to add depth and dynamic contrast. I also over lapped tracks to crossfade them together. I liked the over lapping lyrics. It made the track seem more distorted and interesting.
 
-![sidebar.png](/images/sidebar.png)
+![colors.png](/images/colors.png)
 
-This area allowed me to look at the tracks individually and edit the volume via volume fader or pan knobs.
+by pressing option-c I was allowed to label each track by color. This made it easier to organize my peoject. 
 
 
 ![looppacks.png](/images/looppacks.png)
