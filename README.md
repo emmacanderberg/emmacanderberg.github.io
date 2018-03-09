@@ -14,6 +14,7 @@
 ![faded.png](/images/faded.png)
 ![crossfaded.png](/images/crossfaded.png)
 ![crossfaded.png](/images/crossfaded2.png)
+![fader.png](/images/fader.png)
 
 
 
