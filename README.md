@@ -11,10 +11,11 @@
 ![inspo](/images/inspo.png)
 
 
-![workspace.png](/images/workspace.png)
+![faded.png](/images/faded.png)
+![crossfaded.png](/images/crossfaded.png)
+![crossfaded2.png(/images/crossfaded2.png)
 
-The area shown above is the workspace where you drag tracks and move them to a specific measure. Having the measure number at the top was very helpful in organizing downbeats and cutoffs.
-
+The area shown above is the tool menu. I used the fader tool to allow certain tracks to fade out where I wanted them to. I wanted the tracks to fade out to add depth and dynamic contrast. I also over lapped tracks to crossfade them together. I liked the over lapping lyrics. It made the track seem more distorted and interesting.
 
 ![sidebar.png](/images/sidebar.png)
 
