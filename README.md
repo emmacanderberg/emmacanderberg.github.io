@@ -9,6 +9,7 @@
 
  This assignment presentation will go over lessons two and three. The mix I created in lesson one was used. In this assignment we focused on recording and editing audio. When I found out we were going to record audio to add to our mix, I knew excatly what I wanted to record. When I listen to music I like to listen for personal touches and natural sound like fingers hitting valves and breathing. In my recorded audio, I recorded myself walking with my keys. My lanyard has several keys attatched. When I walk with my keys it makes a relaxing jingling sound. When I got to the portion of the lesson where I had to comp several takes, I added finger snaps over the rain track to sound like heavy rain drops. 
 ![inspo](/images/inspo.png)
+![comp](/images/comp.png)
 
 
 ![faded.png](/images/faded.png)
