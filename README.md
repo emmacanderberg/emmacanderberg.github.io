@@ -17,6 +17,8 @@
 ![colors](/images/velocitylevels.png)
       
 When learning how to combine two software instruments into one patch, I really took advantage of the key limit feature. This allowed me to set my personal liking for octaves.
+
+
 ![keys](/images/keylimit.png)
       
       
@@ -25,7 +27,7 @@ When learning how to combine two software instruments into one patch, I really t
       
       
       
-#MY TIP
+####MY TIP
       
    to have a more comfortable view of your work station and the piano roll region, click the icon show and it will snap automatically into a more comfortable position.
      
