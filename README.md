@@ -14,7 +14,7 @@
      
    I also learned how to use the MIDI as a drumset and experiment with different beats and how to create and resize different notes with the bassline. ( mine was inspired by Seinfeld ) using the pencil tool allowed me to lengthen notes. Changing the velocity let certain notes come out more. ( the colored regions)
 
-![velocity](velocitylevels.png)
+![colors](/images/velocitylevels.png)
       
       
       
