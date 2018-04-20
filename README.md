@@ -21,7 +21,7 @@ When learning how to combine two software instruments into one patch, I really t
 
 ![keys](/images/keylimit.png)
       
-another skill I learned which will come in very handy and save me a lot of time was the note repeat and spot earase feature
+another skill I learned which will come in very handy and save me a lot of time was the note repeat and spot erase feature
 
 ![note](/images/noterepeateearase.png)
       
