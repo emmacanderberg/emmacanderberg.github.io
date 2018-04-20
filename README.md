@@ -19,7 +19,7 @@
       
       
       
-      # MY TIP 
+      ##MY TIP 
       to have a more comfortable view of your work station and the piano roll region, click the icon show and it will snap automatically into a more comfortable position.
      
 ![icon](/images/comfortableview.png)
