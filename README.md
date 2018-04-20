@@ -25,6 +25,9 @@ another skill I learned which will come in very handy and save me a lot of time 
 
 ![note](/images/noterepeateearase.png)
       
+pitch bending was proably the most interesting feature I learned to work with. I thought bending pitch would be really hard to do but it is super simple! its what I visualize in my head when i bend pitch on any instrument in real life, same with the cresendo rainbow pattern on the piano roll.
+
+![uhh](/images/pitch bend.png)       ![rain](/images/rainbowcres.png)
       
       
       
