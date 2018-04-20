@@ -16,6 +16,8 @@
 
 ![colors](/images/velocitylevels.png)
       
+When learning how to combine two software instruments into one patch, I really took advantage of the key limit feature. This allowed me to set my personal liking for octaves.
+![keys](/images/keylimit.png)
       
       
       
