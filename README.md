@@ -30,7 +30,7 @@ pitch bending was proably the most interesting feature I learned to work with. I
 ![uhh](/images/pitchbend.png)       ![rain](/images/rainbowcres.png)
       
       
-  https://raw.githubusercontent.com/emmacanderberg/emmacanderberg.github.io/master/images/pitch%20bend.png
+  
       
       
 #### MY TIP
