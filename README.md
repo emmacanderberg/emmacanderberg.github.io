@@ -3,7 +3,7 @@
 # Emma’s B30 S I T E
 
 #### Assignment #5&6
-##### [deedledootLISTEN](audio/deedledoot.mp3)
+##### [deedledootLISTEN](audio/deedledoot.mp3)  right here is my new piano track while messing around with the piano roll, it felt wrong not having atleast ONE audio portion of the presentation ( i took out skyline piano )
 
 ![Overview Screendhot](/images/pianoroll.png)
 
@@ -27,7 +27,7 @@ When learning how to combine two software instruments into one patch, I really t
       
       
       
-####MY TIP
+#### MY TIP
       
    to have a more comfortable view of your work station and the piano roll region, click the icon show and it will snap automatically into a more comfortable position.
      
