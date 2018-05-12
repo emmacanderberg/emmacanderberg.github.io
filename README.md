@@ -4,12 +4,12 @@
 
 #### Assignment #7,8,9
 ##### [LISTEN](/audio/planydaddy.mp3)  [something extra](/audio/JESUS.mp3)  raise it up with the edits
-![big](/images/raiseupoverview.png)
+![big](/images/AAraiseupoverview.png)
 
 These three lessons for sure took a toll on me. These took the most amount of work. I did learn the most information from them though. Personally these were the lessons I felt most comfortable using Logic X Pro. 
 
 ![bleed](/images/AAerasebleeding.png)
-![ugh](/images/selectanddelete.png)
+![ugh](/images/AAselectanddelete.png)
 
 In these lessons I learned how to remove background noise between performances on a track. I also learned how to drag a region while ensuring that it remains its position relative to the bar lines.
 
