@@ -33,7 +33,7 @@ pitch bending was proably the most interesting feature I learned to work with. I
   
       
       
-#### MY TIP
+#### MY TIPPY
       
    to have a more comfortable view of your workstation and the piano roll region, click the icon show and it will snap automatically into a more comfortable position.
      
