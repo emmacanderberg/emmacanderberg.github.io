@@ -3,7 +3,7 @@
 # Emma’s B30 S I T E
 
 #### Assignment #7,8,9
-##### [LISTEN](/audio/planydaddy.mp3)  [something extra](/audio/JESUS.mp3)  raise it up with the edits
+##### [LISTEN](/audio/planydaddy.mp3) this one is from lesson seven? [something extra](/audio/JESUS.mp3)  raise it up with the edits
 ![big](/images/AAraiseupoverview.png)
 
 These three lessons for sure took a toll on me. These took the most amount of work. I did learn the most information from them though. Personally these were the lessons I felt most comfortable using Logic X Pro. 
