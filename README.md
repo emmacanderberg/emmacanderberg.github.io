@@ -17,6 +17,10 @@ In these lessons I learned how to remove background noise between performances o
 
 Another skill I leanred when editing the raise it up track was how to cover up clicking sounds when you adjust time. All you have to do is use the fade out tool at the end of each section there is a click you hear.
 
+![pitch](/images/AApitchandvibrato.png)
+
+One thing I found really interesting was the ability to adjust the pitch of audio. While I was messing around in the piano roll I found I was able to use on any thing I used in there. 
+
 
 
   
